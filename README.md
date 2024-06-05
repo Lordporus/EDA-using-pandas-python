@@ -5,7 +5,7 @@ This repository contains a "Jupyter notebook" that performs data analysis on a r
 
 Dataset
 The dataset used in this analysis is coaster_db.csv, which contains information about various roller coasters. The dataset includes 1087 entries and 56 columns, providing a rich source of information for analysis.
-
+ 
 Getting Started
 Prerequisites
 To run the notebook, you need to have the following libraries installed:
